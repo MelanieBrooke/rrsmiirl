@@ -1,0 +1,24 @@
+{
+  "name": "rrsmiirl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieBrooke/rrsmiirl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelanieBrooke/rrsmiirl/issues"
+  },
+  "homepage": "https://github.com/MelanieBrooke/rrsmiirl#readme",
+  "dependencies": {
+    "@smiirl/smiirl-library-js": "^1.0.5",
+    "express": "^4.17.1"
+  }
+}
